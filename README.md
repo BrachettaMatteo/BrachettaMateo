@@ -32,7 +32,6 @@ I study this database management:
 <img src="https://img.icons8.com/fluency/48/000000/mysql-logo.png"alt="icon mysql by icons8.com"title="mysql"/> 
 </p>
 </section>
-
-Icon by <a target="_blank" href="https://icons8.com">Icons8</a>
+<i>Icon by <a target="_blank" href="https://icons8.com">Icons8</a></i>
 
 
