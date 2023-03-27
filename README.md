@@ -27,7 +27,7 @@ I'm a computer science <b>student</b> at University of Camerino.
 </section>
 
 <section>
-     <h2>Database<h2> 
+     <h2>DB management<h2> 
      <p>
      <img src="https://img.icons8.com/fluency/48/mysql-logo.png"alt="icon mysql by icons8.com"title="mysql"/> 
      <img src="https://img.icons8.com/color/48/firebase.png"alt="icon mysql by icons8.com"title="firebase"/> 
